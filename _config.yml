@@ -1,4 +1,4 @@
-repository: coderetreat/coderetreat.github.io
+repository: worldretrospectiveday/worldretroday.github.io
 permalink: /blog/:year/:month/:day/:title/
 exclude:
   - package.json
