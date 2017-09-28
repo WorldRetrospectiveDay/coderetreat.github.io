@@ -1,0 +1,17 @@
+{
+  "title": "Games for Retrospectives - Amsterdam",
+  "url": "http://bit.ly/wrd2018amsterdam",
+  "moderators": [
+    "Stanislava Potupchick"
+  ],
+  "location": {
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "coordinates": {
+      "latitude": 52.352189,
+      "longitude": 4.913238
+    },
+    "utcOffset": 1,
+    "timezone": "Europe/Amsterdam"
+  }
+}
