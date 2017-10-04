@@ -1,0 +1,17 @@
+{
+  "title": "World Retrospective Day - Indianapolis",
+  "url": "http://bit.ly/wrd2018Indianapolis",
+  "moderators": [
+    "Christina Bezzy"
+  ],
+  "location": {
+    "city": "Indianapolis",
+    "country": "USA",
+    "coordinates": {
+      "latitude": 39.967101,
+      "longitude": -86.144056
+    },
+    "utcOffset": -5,
+    "timezone": "America/Indianapolis"
+  }
+}
