@@ -1,0 +1,17 @@
+{
+  "title": "World Retrospective Day - Chicago Agile Open Space (Chicago, IL)| Meetup",
+  "url": "http://bit.ly/wrd2018chicago",
+  "moderators": [
+    "Ahmed Avais"
+  ],
+  "location": {
+    "city": "Chicago",
+    "country": "USA",
+    "coordinates": {
+      "latitude": 41.886406,
+      "longitude": -87.630685
+    },
+    "utcOffset": -6,
+    "timezone": "America/Chicago"
+  }
+}
