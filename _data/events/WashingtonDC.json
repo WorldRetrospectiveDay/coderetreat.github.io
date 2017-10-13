@@ -1,0 +1,17 @@
+{
+  "title": "World Retrospective Day - D.C. Edition",
+  "url": "http://bit.ly/wrd2018nyc",
+  "moderators": [
+    "David Horowitz"
+  ],
+  "location": {
+    "city": "Washington DC",
+    "country": "USA",
+    "coordinates": {
+      "latitude": 38.889931,
+      "longitude": -77.009003
+    },
+    "utcOffset": -5,
+    "timezone": "America/Washington"
+  }
+}
