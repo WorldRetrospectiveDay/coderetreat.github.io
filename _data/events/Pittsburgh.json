@@ -1,0 +1,17 @@
+{
+  "title": "World Retrospective Day - Pittsburgh",
+  "url": "http://bit.ly/wrd2018Pittsburgh",
+  "moderators": [
+    " Michael Thompson"
+  ],
+  "location": {
+    "city": "Pittsburgh",
+    "country": "USA",
+    "coordinates": {
+      "latitude": 40.437742,
+      "longitude": -79.923136
+    },
+    "utcOffset": -5,
+    "timezone": "America/Pittsburgh"
+  }
+}
