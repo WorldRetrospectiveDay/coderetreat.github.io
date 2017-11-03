@@ -1,17 +1,17 @@
 {
-  "title": “Retrospective Facilitator Workshop”,
+  "title": "Retrospective Facilitator Workshop",
   "url": "https://adobe.ly/2iqIMLs",
   "moderators": [
-    “Toby Baier“
+    "Toby Baier"
   ],
   "location": {
-    "city": “Hamburg”,
-    "country": “Germany”,
+    "city": "Hamburg",
+    "country": "Germany",
     "coordinates": {
       "latitude": 52.5,
-      "longitude": 10
+      "longitude": 10.0
     },
     "utcOffset": 1,
-    "timezone": "Europe/Berlin”
+    "timezone": "Europe/Amsterdam"
   }
 }
