@@ -1,0 +1,17 @@
+{
+  "title": "World Retrospective Day",
+  "url": "https://www.meetup.com/es-ES/agiles-arg/events/244324452",
+  "moderators": [
+    "@nattydavidovich","@Natuarrigoni","@jgabardini","@pablopecora"
+  ],
+  "location": {
+    "city": "Buenos Aires",
+    "country": "Argentina",
+    "coordinates": {
+      "latitude": -34.573185,
+      "longitude": -58.430350 
+    },
+    "utcOffset": -3,
+    "timezone": "America/Argentina/Buenos_Aires"
+  }
+}
