@@ -9,9 +9,7 @@
     "country": "Argentina",
     "coordinates": {
       "latitude": -34.573185,
-      "longitude": -58.430350
-     -34.573185, -58.430350
-      , 
+      "longitude": -58.430350 
     },
     "utcOffset": -3,
     "timezone": "America/Argentina/Buenos_Aires"
