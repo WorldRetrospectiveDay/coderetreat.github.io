@@ -1,0 +1,16 @@
+
+{
+  "title": "World Retrospective Day Lima",
+  "url": "https://www.meetup.com/agileperu/events/244565343/",
+  "moderators": ["@hhiroshi"],
+  "location": {
+    "city": "Lima",
+    "country": "Perú",
+    "coordinates": {
+      "latitude": -12.040683,
+      "longitude": -77.043310 
+    },
+    "utcOffset": -5,
+    "timezone": "America/Peru/Lima"
+  }
+}
