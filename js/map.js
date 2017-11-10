@@ -216,11 +216,11 @@ $(function() {
         'animation': false,
         'placement': 'top',
         'html': true,
-        'title': 'GDCR events',
+        'title': 'WRD events',
         'content': content
       });
       // workaround for already displayed popovers
-      $( "div.popover-content" ).text('GDCR events');
+      $( "div.popover-content" ).text('WRD events');
 
       $(popupElem).popover('show');
     }
