@@ -1,0 +1,17 @@
+{
+  "title": "BCN DevOps Tour + World Retro Day",
+  "url": "http://bit.ly/wrd2018Barcelona",
+  "moderators": [
+    "Antonio Valle Salas"
+  ],
+  "location": {
+    "city": "Barcelona",
+    "country": "Spain",
+    "coordinates": {
+      "latitude": 41.386241,
+      "longitude": 2.166556
+    },
+    "utcOffset": 1,
+    "timezone": "Europe/Spain"
+  }
+}
