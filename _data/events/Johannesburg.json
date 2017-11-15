@@ -1,0 +1,17 @@
+{
+  "title": "World Retrospective Day - Johannesburg",
+  "url": "http://bit.ly/wrd2018johannesburg",
+  "moderators": [
+    "Joanne Perold"
+  ],
+  "location": {
+    "city": "Johannesburg",
+    "country": "South Africa",
+    "coordinates": {
+      "latitude": 26.106058,
+      "longitude": 28.053585
+    },
+    "utcOffset": 2,
+    "timezone": "Africa/Johannesburg"
+  }
+}
