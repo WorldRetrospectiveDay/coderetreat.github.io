@@ -1,0 +1,17 @@
+{
+  "title": "World Retrospective Day - Cape Town",
+  "url": "http://bit.ly/wrd2018CapeTown",
+  "moderators": [
+    "Samantha Laingd"
+  ],
+  "location": {
+    "city": "Johannesburg",
+    "country": "South Africa",
+    "coordinates": {
+      "latitude": -33.916014,
+      "longitude": 18.427941
+    },
+    "utcOffset": 2,
+    "timezone": "Africa/CapeTown"
+  }
+}
