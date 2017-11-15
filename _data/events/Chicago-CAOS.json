@@ -1,0 +1,17 @@
+{
+  "title": "World Retrospective Day - CAOS Chicago",
+  "url": "http://bit.ly/wrd2018chicago",
+  "moderators": [
+    "Joanna Vahlsing, Saima Siddiqui, Bill Allen, Ahmed Avais"
+  ],
+  "location": {
+    "city": "Chicago",
+    "country": "USA",
+    "coordinates": {
+      "latitude": 41.886406,
+      "longitude": -87.630685
+    },
+    "utcOffset": -6,
+    "timezone": "America/Chicago"
+  }
+}
