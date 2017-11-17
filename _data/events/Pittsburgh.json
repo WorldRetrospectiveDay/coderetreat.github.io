@@ -8,8 +8,8 @@
     "city": "Pittsburgh",
     "country": "USA",
     "coordinates": {
-      "latitude": 40.437742,
-      "longitude": -79.923136
+      "latitude": 40.437595,
+      "longitude": -79.922836
     },
     "utcOffset": -5,
     "timezone": "America/Pittsburgh"
