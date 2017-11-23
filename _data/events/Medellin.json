@@ -1,0 +1,16 @@
+
+{
+  "title": "World Retrospective Day Medellín",
+  "url": "https://www.meetup.com/es-ES/AgilesColombia/events/245317742/?eventId=245317742",
+  "moderators": ["Carlos Gil"],
+  "location": {
+    "city": "Medellín",
+    "country": "Colombia",
+    "coordinates": {
+      "latitude": 6.27053,
+      "longitude": -75.57212
+    },
+    "utcOffset": -5,
+    "timezone": "America/Bogota"
+  }
+}
