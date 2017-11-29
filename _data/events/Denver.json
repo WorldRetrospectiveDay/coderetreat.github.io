@@ -1,0 +1,16 @@
+
+{
+  "title": "World Retrospective Day Denver",
+  "url": "https://www.meetup.com/Agile-Denver/events/xjqbbpyxdbjc/",
+  "moderators": ["Colleen Johnson"],
+  "location": {
+    "city": "Denver",
+    "country": "USA",
+    "coordinates": {
+      "latitude": 39.7392,
+      "longitude": -104.9903
+    },
+    "utcOffset": -7,
+    "timezone": "US/Mountain"
+  }
+}
