@@ -1,0 +1,16 @@
+
+{
+  "title": "London Meetup with #play14",
+  "url": "https://www.meetup.com/AdventuresWithAgile/events/245493057/",
+  "moderators": ["Charley Kent"],
+  "location": {
+    "city": "London",
+    "country": "England",
+    "coordinates": {
+      "latitude": 51.5074,
+      "longitude": 0
+    },
+    "utcOffset": 0,
+    "timezone": "GMT"
+  }
+}
