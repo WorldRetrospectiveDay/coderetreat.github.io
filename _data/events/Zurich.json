@@ -1,0 +1,16 @@
+
+{
+  "title": "Retro enthusiast’s meetup Zürich",
+  "url": "hhttps://www.infometis.ch/worldretroday/",
+  "moderators": ["Pascal Stiefel"],
+  "location": {
+    "city": "Zürich",
+    "country": "Switzerland",
+    "coordinates": {
+      "latitude": 47.3853034,
+      "longitude": 8.539292
+    },
+    "utcOffset": -1,
+    "timezone": "CET"
+  }
+}
