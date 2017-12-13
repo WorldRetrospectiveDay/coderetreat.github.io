@@ -1,0 +1,17 @@
+{
+  "title": "World Retro Day Raleigh",
+  "url": "#",
+  "moderators": [
+    "Erika Brooks"
+  ],
+  "location": {
+    "city": "Raleigh",
+    "country": "USA",
+    "coordinates": {
+      "latitude": 35.7766,
+      "longitude": -78.6454
+    },
+    "utcOffset": -5,
+    "timezone": "America/Raleigh"
+  }
+}
