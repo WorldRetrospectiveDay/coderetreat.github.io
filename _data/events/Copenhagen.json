@@ -1,0 +1,17 @@
+{
+  "title": "Agile Copenhagen | World Retrospective Day 2018",
+  "url": "http://bit.ly/wrd2018Copenhagen",
+  "moderators": [
+    "Allan Rennebo Jepsen"
+  ],
+  "location": {
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "coordinates": {
+      "latitude": 55.6798592,
+      "longitude": 12.3860486
+    },
+    "utcOffset": 1,
+    "timezone": "Europe/Copenhagen"
+  }
+}

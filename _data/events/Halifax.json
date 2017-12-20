@@ -1,9 +1,8 @@
+
 {
   "title": "World Retrospective Day - Retrospection with Codepile1",
   "url": "https://www.meetup.com/HalifaxAIG/events/245738327/",
-  "moderators": [
-    "Alex Ianta"
-  ],
+  "moderators": ["Alex Ianta"],
   "location": {
     "city": "Halifax",
     "country": "Canada",
@@ -11,7 +10,7 @@
       "latitude": 44.6488,
       "longitude": -63.5752
     },
-    "utcOffset": -4,
-    "timezone": "AST"
+    "utcOffset": -5,
+    "timezone": "Eastern"
   }
 }
