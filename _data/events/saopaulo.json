@@ -1,0 +1,16 @@
+
+{
+  "title": "World Retrospective Day São Paulo",
+  "url": "",
+  "moderators": ["Oscar Correia", "Bruno Soares"],
+  "location": {
+    "city": "São Paulo",
+    "country": "Brazil",
+    "coordinates": {
+      "latitude": -23.5505,
+      "longitude": -46.6333
+    },
+    "utcOffset": -3,
+    "timezone": "Brazil time"
+  }
+}
