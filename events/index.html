@@ -19,7 +19,7 @@ layout: default
       <tr>
         <td>{{ event.location.country }}</td>
         <td>{{ event.location.city }}</td>
-        <td><a href="{{ event.url }}">{{ event.title }}</a></td>
+        <td><a href="{{ event.url }}" target="_blank">{{ event.title }}</a></td>
         <td>
           {{ event.moderators | join: ', '}}
         </td>
