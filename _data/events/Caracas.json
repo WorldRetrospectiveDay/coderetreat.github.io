@@ -1,0 +1,17 @@
+{
+  "title": "Día Mundial Retrospectiva",
+  "url": "#",
+  "moderators": [
+    "Rodolfo"
+  ],
+  "location": {
+    "city": "Caracas",
+    "country": "Venezuela",
+    "coordinates": {
+      "latitude": 10.846249,
+      "longitude": -66.945310
+    },
+    "utcOffset": -4,
+    "timezone": "SouthAmerix/Venezuela"
+  }
+}
