@@ -1,0 +1,16 @@
+
+{
+  "title": "Retrospective Lightning Talks",
+  "url": "https://www.meetup.com/City-of-Angels-Agile/events/246869848/",
+  "moderators": ["Dan Diep"],
+  "location": {
+    "city": "Pasadena",
+    "country": "USA",
+    "coordinates": {
+      "latitude": 34.1492148,
+      "longitude": -118.1327586
+    },
+    "utcOffset": -8,
+    "timezone": "PST"
+  }
+}
