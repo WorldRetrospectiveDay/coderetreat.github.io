@@ -1,0 +1,15 @@
+{
+  "title": "World Retrospective Day — Wellington",
+  "url": "https://www.meetup.com/Enspiral-Dev-Academy-Meetup/events/246957416",
+  "location": {
+    "utcOffset": 13,
+    "timezone": "NZDT",
+    "city": "Wellington",
+    "country": "Aotearoa New Zealand",
+    "coordinates": {
+      "latitude": -41.29692490959226,
+      "longitude": 174.77405369281766
+    }
+  },
+  "moderators": ["@MattiSG"]
+}
