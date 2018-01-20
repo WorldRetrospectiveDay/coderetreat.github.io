@@ -1,0 +1,16 @@
+
+{
+  "title": "World Retro Day: Agile Ottawa meetup",
+  "url": "https://www.meetup.com/Ottawa-Scrum-Users-Group/events/246964917/",
+  "moderators": ["Ellen Grove"],
+  "location": {
+    "city": "Ottawa",
+    "country": "Canada",
+    "coordinates": {
+      "latitude": 45.1716028,
+      "longitude": -76.0074655
+    },
+    "utcOffset": -5,
+    "timezone": "EST"
+  }
+}

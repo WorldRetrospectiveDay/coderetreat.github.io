@@ -1,0 +1,16 @@
+
+{
+  "title": "World Retrospective Day - Lean Coffee",
+  "url": "https://www.meetup.com/Agile-Brisbane/events/246925879/",
+  "moderators": ["Dave Pryce"],
+  "location": {
+    "city": "Brisbane",
+    "country": "Australia",
+    "coordinates": {
+      "latitude": -27.46794,
+      "longitude": 153.02809
+    },
+    "utcOffset": 10,
+    "timezone": "AEST"
+  }
+}
