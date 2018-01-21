@@ -1,14 +1,14 @@
 
 {
-  "title": "World Retro Day Event",
+  "title": "World Retro Day Event - NJ",
   "url": "https://www.meetup.com/AgileNJ/events/246945822/",
   "moderators": ["Jardena London"],
   "location": {
-    "city": "Millington",
+    "city": "Short Hills",
     "country": "USA",
     "coordinates": {
-      "latitude": 40.7431319,
-      "longitude": -74.36202650000001
+      "latitude": 40.74788,
+      "longitude": -74.32543
     },
     "utcOffset": -5,
     "timezone": "EST"
