@@ -1,0 +1,16 @@
+
+{
+  "title": "Upstate Scrum World Retrospective Day",
+  "url": "https://www.meetup.com/Upstate-Scrum/events/247004852/",
+  "moderators": ["Randy Angiel"],
+  "location": {
+    "city": "Kingston, NY",
+    "country": "USA",
+    "coordinates": {
+      "latitude": 41.9270,
+      "longitude": -73.9974
+    },
+    "utcOffset": -5,
+    "timezone": "EST"
+  }
+}
