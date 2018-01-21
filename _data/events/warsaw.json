@@ -1,0 +1,16 @@
+
+{
+  "title": "Wirtualna Retrospektywa Agile Warsaw",
+  "url": "https://www.meetup.com/pl-PL/AgileWarsaw/events/246974621/",
+  "moderators": ["Agile Warsaw"],
+  "location": {
+    "city": "Warszawa",
+    "country": "Polska",
+    "coordinates": {
+      "latitude": 52.237049,
+      "longitude": 21.017532
+    },
+    "utcOffset": 1,
+    "timezone": "MET"
+  }
+}
