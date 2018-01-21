@@ -1,0 +1,16 @@
+
+{
+  "title": "World Retrospective Day Hangzhou",
+  "url": "http://agilehangzhou.org/index.php/event/worldretroday_20180206/",
+  "moderators": ["Yi XU"],
+  "location": {
+    "city": "Hangzhou",
+    "country": "China",
+    "coordinates": {
+      "latitude": 30.229939,
+      "longitude": 120.191956
+    },
+    "utcOffset": 8,
+    "timezone": "CST"
+  }
+}
