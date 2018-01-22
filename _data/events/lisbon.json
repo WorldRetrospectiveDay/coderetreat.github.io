@@ -1,0 +1,16 @@
+
+{
+  "title": "Lisbon Agile Connect",
+  "url": "https://www.meetup.com/Agile-Connect-Lisbon/events/247032391/",
+  "moderators": ["Lisbon Agile Connect"],
+  "location": {
+    "city": "Lisbon",
+    "country": "Portugal",
+    "coordinates": {
+      "latitude": 38.736946,
+      "longitude": -9.142685
+    },
+    "utcOffset": 0,
+    "timezone": "GMT"
+  }
+}
