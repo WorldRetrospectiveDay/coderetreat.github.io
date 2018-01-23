@@ -1,0 +1,16 @@
+
+{
+  "title": "[CALI] Día mundial de la Retrospectiva en Cali Vé.",
+  "url": "https://www.meetup.com/AgilesColombia/events/247058113/",
+  "moderators": ["Luis Mulato"],
+  "location": {
+    "city": "Cali",
+    "country": "Colombia",
+    "coordinates": {
+      "latitude": 3.4516,
+      "longitude": -76.5320
+    },
+    "utcOffset": -5,
+    "timezone": "EST"
+  }
+}
