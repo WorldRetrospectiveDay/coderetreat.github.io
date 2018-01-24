@@ -1,0 +1,16 @@
+
+{
+  "title": "WRD Online Personal Retro",
+  "url": "https://doodle.com/poll/98hq3nvkg2tz4szp",
+  "moderators": ["Cindy Carless"],
+  "location": {
+    "city": "Fredensborg",
+    "country": "Denmark",
+    "coordinates": {
+      "latitude": 55.97558,
+      "longitude": 12.40314
+    },
+    "utcOffset": 1,
+    "timezone": "MET"
+  }
+}

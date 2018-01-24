@@ -1,0 +1,16 @@
+
+{
+  "title": "World Retrospective Day in Nokia",
+  "url": "https://www.facebook.com/events/243080266232326/",
+  "moderators": ["Karolina Swiadek"],
+  "location": {
+    "city": "Kraków",
+    "country": "Poland",
+    "coordinates": {
+      "latitude": 50.049683,
+      "longitude": 19.944544
+    },
+    "utcOffset": 1,
+    "timezone": "MET"
+  }
+}
