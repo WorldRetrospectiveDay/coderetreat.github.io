@@ -1,0 +1,16 @@
+
+{
+  "title": "Agile Retrospectives",
+  "url": "https://www.meetup.com/pt-BR/Agile-Connect-Braga/events/246830163/",
+  "moderators": ["Agile Connect Braga"],
+  "location": {
+    "city": "Braga",
+    "country": "Portugal",
+    "coordinates": {
+      "latitude": 41.54916,
+      "longitude": -8.4240807
+    },
+    "utcOffset": 0,
+    "timezone": "UTC"
+  }
+}
