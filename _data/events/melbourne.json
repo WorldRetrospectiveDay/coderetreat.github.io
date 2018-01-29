@@ -1,0 +1,16 @@
+
+{
+  "title": "Melbourne Lean Coffee",
+  "url": "https://www.meetup.com/Melbourne-Lean-Coffee/events/ljgnlnyxdbjb/",
+  "moderators": ["Edmund O'Shaughnessy"],
+  "location": {
+    "city": "Abbotsford",
+    "country": "Australia",
+    "coordinates": {
+      "latitude": -37.800133,
+      "longitude": 145.002079
+    },
+    "utcOffset": 11,
+    "timezone": "AEST"
+  }
+}
