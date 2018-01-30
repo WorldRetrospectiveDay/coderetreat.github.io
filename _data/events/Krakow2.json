@@ -1,0 +1,16 @@
+
+{
+  "title": "ALE Warsztaty - Scenki z retrospekcji, uczymy się przez praktykę.",
+  "url": "https://www.meetup.com/ALE-Krakow/events/247292394/",
+  "moderators": ["Mariusz Petlic, Kuba Jakubik, Radosław Gamracy"],
+  "location": {
+    "city": "Kraków",
+    "country": "Poland",
+    "coordinates": {
+      "latitude": 50.049683,
+      "longitude": 19.944544
+    },
+    "utcOffset": 1,
+    "timezone": "MET"
+  }
+}
