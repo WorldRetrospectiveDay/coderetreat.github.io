@@ -1,0 +1,16 @@
+
+{
+  "title": "Agile Silesia #2018.02",
+  "url": "https://as201802.evenea.pl/",
+  "moderators": ["Daniel Wicher"],
+  "location": {
+    "city": "Katowice",
+    "country": "Poland",
+    "coordinates": {
+      "latitude": 50.270908,
+      "longitude": 19.039993
+    },
+    "utcOffset": 1,
+    "timezone": "MET"
+  }
+}
