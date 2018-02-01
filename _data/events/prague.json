@@ -1,0 +1,16 @@
+
+{
+  "title": "World Retrospectives Day – Lepší svět s retrospektivou",
+  "url": "https://agilniasociace.cz/otevrena-agilni-setkani/world-retrospectives-day-lepsi-svet-s-retrospektivou/",
+  "moderators": ["Pavel Teichman"],
+  "location": {
+    "city": "Prague",
+    "country": "Czechia",
+    "coordinates": {
+      "latitude": 50.08804,
+      "longitude": 14.42076
+    },
+    "utcOffset": 1,
+    "timezone": "MET"
+  }
+}

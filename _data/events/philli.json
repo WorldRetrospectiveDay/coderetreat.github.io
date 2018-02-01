@@ -1,0 +1,16 @@
+
+{
+  "title": "The Thieves of Time Retrospective",
+  "url": "https://docs.google.com/document/d/16hJwm-j1_yiP_MDhtEPSo2zR9umwA1DB43VyTf6ZuJE/edit?usp=sharing",
+  "moderators": ["Andy Cleff"],
+  "location": {
+    "city": "Philadelphia",
+    "country": "USA",
+    "coordinates": {
+      "latitude": 39.952583,
+      "longitude": -75.165222
+    },
+    "utcOffset": -5,
+    "timezone": "EST"
+  }
+}

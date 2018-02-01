@@ -1,0 +1,16 @@
+
+{
+  "title": "World Retro Day - Australia",
+  "url": "https://wrdaus.tattsgroup.io/",
+  "moderators": ["Sharon Robson"],
+  "location": {
+    "city": "Brisbane",
+    "country": "Australia",
+    "coordinates": {
+      "latitude": -27.470125,
+      "longitude": 153.021072
+    },
+    "utcOffset": 10,
+    "timezone": ""
+  }
+}

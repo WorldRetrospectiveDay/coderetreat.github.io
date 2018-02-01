@@ -1,0 +1,16 @@
+
+{
+  "title": "World Retrospective Day - Kyiv",
+  "url": "https://www.facebook.com/events/927446434099861/",
+  "moderators": ["Andrii Shevchenko"],
+  "location": {
+    "city": "Kyiv",
+    "country": "Ukraine",
+    "coordinates": {
+      "latitude": 50.431782,
+      "longitude": 30.516382
+    },
+    "utcOffset": 2,
+    "timezone": ""
+  }
+}
