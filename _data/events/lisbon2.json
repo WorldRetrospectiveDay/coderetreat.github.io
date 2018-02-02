@@ -1,0 +1,16 @@
+
+{
+  "title": "World Retrospective Day (Portugal)",
+  "url": "https://www.meetup.com/pt-BR/agileday/events/244375145/",
+  "moderators": ["Ricardo Vercesi"],
+  "location": {
+    "city": "Lisbon",
+    "country": "Portugal",
+    "coordinates": {
+      "latitude": 38.736946,
+      "longitude": -9.142685
+    },
+    "utcOffset": 0,
+    "timezone": "GMT"
+  }
+}

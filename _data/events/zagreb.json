@@ -1,0 +1,16 @@
+
+{
+  "title": "Retrospektivirajmo se!",
+  "url": "https://www.meetup.com/Agile-Hrvatska-Meetup/events/247184967/",
+  "moderators": ["Davor Cengija"],
+  "location": {
+    "city": "Zagreb",
+    "country": "Croatia",
+    "coordinates": {
+      "latitude": 45.815399,
+      "longitude": 15.966568
+    },
+    "utcOffset": 1,
+    "timezone": "MET"
+  }
+}

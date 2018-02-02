@@ -1,0 +1,16 @@
+
+{
+  "title": "World Retrospective Day Helsinki",
+  "url": "https://www.meetup.com/World-Retro-Day-Helsinki/events/247380721/",
+  "moderators": ["Miikka Niemelä"],
+  "location": {
+    "city": "Helsinki",
+    "country": "Finland",
+    "coordinates": {
+      "latitude": 60.1640184,
+      "longitude": 24.9073332
+    },
+    "utcOffset": 3,
+    "timezone": "EET"
+  }
+}
