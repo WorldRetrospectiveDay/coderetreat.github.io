@@ -1,0 +1,16 @@
+
+{
+  "title": "The Thieves of Time Retrospective",
+  "url": "http://www.agilephilly.com/events/world-retro-day-2018",
+  "moderators": ["John Voris"],
+  "location": {
+    "city": "Philadelphia",
+    "country": "USA",
+    "coordinates": {
+      "latitude": 39.952584,
+      "longitude": -75.165222
+    },
+    "utcOffset": -5,
+    "timezone": "EST"
+  }
+}
