@@ -11,16 +11,16 @@
     <br>
     <h1>
     <u>World Retrospective Day starts in:</u>
-    {% include countdown.liquid date='2018-02-06T00:00:00Z' size='large' name ='wrd2018' %}
+    {% include countdown.liquid date='2019-02-27T00:00:00Z' size='large' name ='wrd2019' %}
     </h1>
   </div>
 </section>
 
 <script>
   $(function() {
-    $.get('/events/wrd2018.json', function(eventsJson) {
-      var wrd2018Events = mapEventsDataToMapFormat(eventsJson);
-      addEventsToMap(wrd2018Events);
+    $.get('/events/wrd2019.json', function(eventsJson) {
+      var wrd2019Events = mapEventsDataToMapFormat(eventsJson);
+      addEventsToMap(wrd2019Events);
     });
   });
 </script>
