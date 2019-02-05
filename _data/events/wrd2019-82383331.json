@@ -1,12 +1,12 @@
 {
-  "title": "Lets celebrate World Retrospective Day in Cape Town",
-  "url": " Block B Granger Bay Court Beach Road  V&A Waterfront  Cape Town  Western Cape  8001  ZA",
-  "moderators": ["Malene Jacobsen"],
-  "location": { 
-    "city": "1st Floor" ,
-    "country": "Africa/Johannesburg",
-    "coordinates": { 
-      "latitude": ,
-      "longitude": -33.903527},
-  "utcOffset": 18.4172000 ,
-  "timezone": " "}}
+"title": "Lets celebrate World Retrospective Day in Cape Town",
+"url": "https://agileofcourse.co.za/product/world-retro-day-2019/",
+"moderators": ["Malene Jacobsen and Olga Yiannakis"],
+"location": {
+"city": "Cape Town" ,
+"country": "ZA",
+"coordinates": {
+"latitude": -33.903527,
+"longitude": 18.4172000 },
+"utcOffset": ,
+"timezone": " "}}
