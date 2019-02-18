@@ -3,10 +3,10 @@
   "url": "https://www.meetup.com/SimCorp-Agile/events/258784934/",
   "moderators": ["Niels Harre"],
   "location": { 
-    "city": "Weidekampsgade 16    Copenhagen S    2300  DK" ,
-    "country": "",
+    "city": "Copenhagen S" ,
+    "country": "DK",
     "coordinates": { 
       "latitude": 55.668267,
       "longitude": 12.581086},
   "utcOffset":  ,
-  "timezone": " "}}
+  "timezone": ""}}

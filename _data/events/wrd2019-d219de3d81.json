@@ -1,12 +1,12 @@
 {
   "title": "Virtual Meeting at Noon for World Retro Day",
-  "url": "http://www.agilephilly.com/events/world-retro-day-2019 ",
+  "url": "http://www.agilephilly.com/events/world-retro-day-2019",
   "moderators": ["John Voris"],
   "location": { 
-    "city": "Virtual  Meeting on Slack  Phila  PA  19123  US" ,
+    "city": "Phila" ,
     "country": "US",
     "coordinates": { 
       "latitude": 40.0026083,
       "longitude": -75.1882438},
   "utcOffset":  ,
-  "timezone": " "}}
+  "timezone": "America/New_York"}}

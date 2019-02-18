@@ -2,11 +2,11 @@
   "title": "Dia Mundial de la Retrospectiva con Open Source Pyme",
   "url": "http://opensourcepyme.com/comunicate-con-nosotros/",
   "moderators": ["Jorge Rafael Aristizabal Diazgranados"],
-  "location": {
-    "city": "Transversal 5a # 45 -91. Patio Bonito - Imperio Coworking    Medellin  Antioquia  050010  CO" ,
+  "location": { 
+    "city": "Medellin" ,
     "country": "CO",
-    "coordinates": {
-      "latitude": 6.12273,
+    "coordinates": { 
+      "latitude": 6.1227,
       "longitude": -75.34305},
   "utcOffset":  ,
-  "timezone": " "}}
+  "timezone": "America/Bogota"}}

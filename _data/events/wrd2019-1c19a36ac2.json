@@ -1,12 +1,12 @@
 {
   "title": "[WRD] Mini taller de retrospectivas",
-  "url": "https://www.meetup.com/es-ES/Agile-Life/events/257958386/ ",
+  "url": "https://www.meetup.com/es-ES/Agile-Life/events/257958386/",
   "moderators": ["Luis Cariz"],
   "location": { 
-    "city": "TBD  TBD  Santiago  Region metropolitana  7500000  CL" ,
+    "city": "Santiago" ,
     "country": "CL",
     "coordinates": { 
       "latitude": -33.4724224,
       "longitude": -70.7702552},
   "utcOffset":  ,
-  "timezone": " "}}
+  "timezone": "America/Santiago"}}

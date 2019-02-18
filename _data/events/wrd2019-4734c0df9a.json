@@ -3,10 +3,10 @@
   "url": "https://worldretroday.com",
   "moderators": ["Joanne Perold"],
   "location": { 
-    "city": "TBD    Johannesburg  Gauteng  1609  ZA" ,
+    "city": "Johannesburg" ,
     "country": "ZA",
     "coordinates": { 
       "latitude": -26.110390,
       "longitude": 28.053440},
   "utcOffset":  ,
-  "timezone": " "}}
+  "timezone": "Africa/Johannesburg"}}

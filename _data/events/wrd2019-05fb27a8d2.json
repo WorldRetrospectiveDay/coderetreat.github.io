@@ -1,12 +1,12 @@
 {
   "title": "World Retrospective Day (seriously played)",
-  "url": "https://www.meetup.com/Agile-Serious-games/events/257984323/ ",
+  "url": "https://www.meetup.com/Agile-Serious-games/events/257984323/",
   "moderators": ["Stanislava Potupchik"],
   "location": { 
-    "city": "Central Station  1  Amsterdam  Noord-Holland  1012NX  NL" ,
+    "city": "Amsterdam" ,
     "country": "NL",
     "coordinates": { 
       "latitude": 52.3800378,
       "longitude": 4.89396},
   "utcOffset":  ,
-  "timezone": " "}}
+  "timezone": "Europe/Amsterdam"}}

@@ -3,10 +3,10 @@
   "url": "https://www.meetup.com/pt-BR/Agile-Connect-Braga/events/258895571/",
   "moderators": ["Agile Connect"],
   "location": { 
-    "city": "Startup Braga  Praça Conde Agrolongo 123  Braga  Braga  4700-314  PT" ,
+    "city": "Braga" ,
     "country": "PT",
     "coordinates": { 
       "latitude": 41.55311,
       "longitude": -8.426203},
   "utcOffset":  ,
-  "timezone": " "}}
+  "timezone": "Europe/Lisbon"}}
