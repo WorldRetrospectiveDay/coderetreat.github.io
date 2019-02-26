@@ -1,0 +1,12 @@
+{
+  "title": "World Retro Day - Osijek",
+  "url": "http://softwarecity.hr/event/svjetski-dan-retrospektive-stanje-agilizacije-regiji/",
+  "moderators": ["Josip Jurisic"],
+  "location": { 
+    "city": "Osijek" ,
+    "country": "HR",
+    "coordinates": { 
+      "latitude": 45.5604657,
+      "longitude": 18.6760898},
+  "utcOffset":  ,
+  "timezone": "Europe/Zagreb"}}
